@@ -1,1 +1,1 @@
-# TP_OrganizacionComputador
+# TP_Organizacion_computador
