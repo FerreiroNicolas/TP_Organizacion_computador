@@ -1,4 +1,4 @@
-# TP_Organizacion_computador
+# Assembler Intel x86_64
 Trabajo práctico final a entregar para la materia Organizacion del Computador Univerdad de Buenos Aires.
 
 ## Descripción
